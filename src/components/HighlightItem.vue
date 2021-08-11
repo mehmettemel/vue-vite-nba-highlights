@@ -22,7 +22,7 @@
             <div v-else>
                 <img
                     alt="blog photo"
-                    src="/images/blog/1.jpg"
+                    src="placeholder.png"
                     class="max-h-40 w-full object-cover"
                 />
             </div>
